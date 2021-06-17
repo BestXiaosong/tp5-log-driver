@@ -1,4 +1,4 @@
 <?php
 require "vendor/autoload.php";
-$Test = new Log\Log();
+$Test = new Log\File();
 $Test->test();

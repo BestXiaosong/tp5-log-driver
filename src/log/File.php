@@ -7,7 +7,7 @@ use think\Request;
 /**
  * 本地化调试输出到文件
  */
-class Log
+class File
 {
 
     public static function test()
