@@ -1,0 +1,22 @@
+{
+    "name": "xiaosong/tp5-log-driver",
+    "description": "xiaosong custom tp5.0.* log driver",
+    "type": "l",
+    "require": {
+        "php": ">=7.2.0",
+        "topthink/framework": "5.0.*"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "xiaosong",
+            "email": "4155433@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "Log\\":"src/log"
+        }
+    }
+}
