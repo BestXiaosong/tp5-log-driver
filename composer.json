@@ -3,8 +3,7 @@
     "description": "xiaosong custom tp5.0.* log driver",
     "type": "l",
     "require": {
-        "php": ">=7.2.0",
-        "topthink/framework": "5.0.*"
+        "php": ">=7.2.0"
     },
     "license": "Apache-2.0",
     "authors": [
